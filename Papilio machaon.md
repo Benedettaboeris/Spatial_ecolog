@@ -15,7 +15,9 @@ In this project, the spatial distribution and altitudinal patterns of P. machaon
 Spatial mapping and kernel density estimation are used to identify geographic patterns and areas of higher occurrence density, while elevation extraction allows the assessment of altitudinal distributions.
 ## Data sources
 Species occurrence data for Papilio machaon were obtained from the Global Biodiversity Information Facility (GBIF).
+
 Elevation data were derived from the WorldClim digital elevation model.
+
 Administrative boundaries for Italy were obtained from the Natural Earth dataset.
 
 ## R packages used
